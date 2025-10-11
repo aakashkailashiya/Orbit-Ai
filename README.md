@@ -8,6 +8,8 @@
 </div>
 
 ## 📱 Overview
+![Uploading ChatGPT Image Oct 10, 2025, 01_26_06 PM.png…]()
+
 
 OrbitAI is a powerful, privacy-focused AI chat assistant for Android that runs large language models directly on your device. No internet connection required after model download! 🌐
 
