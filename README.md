@@ -1,17 +1,12 @@
 # 🚀 OrbitAI - Your Personal AI Assistant
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
-  <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=mediapipe&logoColor=white" alt="MediaPipe">
-</div>
+<img width="1024" height="1024" alt="orbitai" src="https://github.com/user-attachments/assets/9b2728d8-2730-4fef-8dc6-a02bfc416d26" />
 
+</div><br>
 ## 📱 Overview
-<div align="center">
-<img src="orbit ai.png>
 
-</div>
+  
 OrbitAI is a powerful, privacy-focused AI chat assistant for Android that runs large language models directly on your device. No internet connection required after model download! 🌐
 
 ### ✨ Key Features
