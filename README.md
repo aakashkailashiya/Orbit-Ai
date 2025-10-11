@@ -8,7 +8,7 @@
 </div>
 
 ## 📱 Overview
-![orbit ai.png…]()
+<img src="orbit ai.png>
 
 
 OrbitAI is a powerful, privacy-focused AI chat assistant for Android that runs large language models directly on your device. No internet connection required after model download! 🌐
