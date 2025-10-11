@@ -34,9 +34,12 @@ OrbitAI is a powerful, privacy-focused AI chat assistant for Android that runs l
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/12345678/abc12345-screenshot1.png" alt="Main Chat Interface" width="250">
-  <img src="https://github.com/user-attachments/assets/12345678/abc12345-screenshot2.png" alt="Model Selection" width="250">
-  <img src="https://github.com/user-attachments/assets/12345678/abc12345-screenshot3.png" alt="Settings" width="250">
+  <img width="1080" height="2340" alt="orbit_ai (5)" src="https://github.com/user-attachments/assets/531aa9e8-269c-4028-9cd5-ec137e927ff8" />
+<img width="1080" height="2340" alt="orbit_ai (4)" src="https://github.com/user-attachments/assets/0b4aa0ac-4b93-4a0f-a611-a290b49e2133" />
+<img width="1080" height="2340" alt="orbit_ai (3)" src="https://github.com/user-attachments/assets/47a7aa89-5dba-4710-ac8f-9425502ea61b" />
+<img width="1080" height="2340" alt="orbit_ai (2)" src="https://github.com/user-attachments/assets/c7c1e216-a00d-4ede-9a11-c20b0d125ad9" />
+<img width="1080" height="2340" alt="orbit_ai (1)" src="https://github.com/user-attachments/assets/2c084ea1-c7db-467b-a3a6-abadde159a61" />
+
 </div>
 
 ## 🚀 Getting Started
